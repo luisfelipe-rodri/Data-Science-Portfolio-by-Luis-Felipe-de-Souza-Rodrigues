@@ -18,4 +18,7 @@
      * [Granting agricultural credit in the Brazilian Midwest: Analyzing the risks of large-scale agriculture.](https://www.even3.com.br/anais/sober2025/1096480-concessao-de-credito-agricola-no-centro-oeste-brasileiro--analisando-os-riscos-da-agricultura-de-larga-escala/)
      * [Productivity as a Consequence of the Productive Efficiency of Soybean Cultivation Costs in Mato Grosso.](https://www.even3.com.br/anais/sober2025/1071294-produtividade-como-consequencia-da-eficiencia-produtiva-dos-custos-da-sojicultura-em-mato-grosso/)
 
+   * ## Scientific Research
+     * [Why and When to Use the Generalized Method of Moments.](https://medium.com/data-science/why-and-when-to-use-the-generalized-method-of-moments-625f76ca17c0)
+
 <!--te-->
