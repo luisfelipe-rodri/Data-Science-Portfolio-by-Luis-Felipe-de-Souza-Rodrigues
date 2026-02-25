@@ -4,7 +4,7 @@
  
 <!--ts-->
    * ## R Libraries
-      *   [birddog]([https://www.roneyfraga.com/birddog/authors.html](https://cran.r-project.org/web/packages/birddog/index.html)): The goal of birddog is sniffing out emergence and trajectories in scientific and patent literature. ![made-with-r](https://img.shields.io/badge/Made%20with-R-blue)
+      *   [birddog]([https://www.roneyfraga.com/birddog/authors.html](https://cran.r-project.org/web/packages/birddog/index.html): The goal of birddog is sniffing out emergence and trajectories in scientific and patent literature. ![made-with-r](https://img.shields.io/badge/Made%20with-R-blue)
       *   [getLattes](https://cran.r-project.org/web/packages/getLattes/index.html): Import and Process Data from the 'Lattes' Curriculum Platform. ![made-with-r](https://img.shields.io/badge/Made%20with-R-blue)
 
    * ## Dashboards & Deploys
