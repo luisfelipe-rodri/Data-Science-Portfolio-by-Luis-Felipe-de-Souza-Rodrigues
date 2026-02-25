@@ -19,7 +19,7 @@
      * [Productivity as a Consequence of the Productive Efficiency of Soybean Cultivation Costs in Mato Grosso.](https://www.even3.com.br/anais/sober2025/1071294-produtividade-como-consequencia-da-eficiencia-produtiva-dos-custos-da-sojicultura-em-mato-grosso/)
 
    * ## Medium Blog
-     * [Why and When to Use the Generalized Method of Moments.](https://medium.com/data-science/why-and-when-to-use-the-generalized-method-of-moments-625f76ca17c0)
+     * [Why and When to Use the Generalized Method of Moments.](https://medium.com/data-science/why-and-when-to-use-the-generalized-method-of-moments-625f76ca17c0)![made-with-python](https://img.shields.io/badge/Made%20with-Python-yellow)
      * [Union of Probabilistic Event Groups](https://medium.com/data-science/union-of-probabilistic-event-groups-b415d23e1a62)
 
 <!--te-->
