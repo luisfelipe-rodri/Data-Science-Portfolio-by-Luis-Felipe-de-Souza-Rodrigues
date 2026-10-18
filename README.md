@@ -25,6 +25,6 @@
 
    * ## Medium Blog
      * [Why and When to Use the Generalized Method of Moments.](https://medium.com/data-science/why-and-when-to-use-the-generalized-method-of-moments-625f76ca17c0) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-     * [Union of Probabilistic Event Groups](https://medium.com/data-science/union-of-probabilistic-event-groups-b415d23e1a62)![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+     * [Union of Probabilistic Event Groups](https://medium.com/data-science/union-of-probabilistic-event-groups-b415d23e1a62) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 <!--te-->
