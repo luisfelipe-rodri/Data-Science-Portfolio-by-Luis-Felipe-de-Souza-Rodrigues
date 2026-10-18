@@ -4,14 +4,14 @@
  
 <!--ts-->
    * ## R Libraries
-      *   [birddog](https://cran.r-project.org/web/packages/birddog/index.html): The goal of birddog is sniffing out emergence and trajectories in scientific and patent literature. ![made-with-r](https://img.shields.io/badge/Made%20with-R-blue)
-      *   [getLattes](https://cran.r-project.org/web/packages/getLattes/index.html): Import and Process Data from the 'Lattes' Curriculum Platform. ![made-with-r](https://img.shields.io/badge/Made%20with-R-blue)
+      *   [birddog](https://cran.r-project.org/web/packages/birddog/index.html): The goal of birddog is sniffing out emergence and trajectories in scientific and patent literature. ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+      *   [getLattes](https://cran.r-project.org/web/packages/getLattes/index.html): Import and Process Data from the 'Lattes' Curriculum Platform. ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
    * ## Web Application
 
      * [Mato Grosso Crime Map](https://luisfeliperodrigues.shinyapps.io/crime/): spatial autocorrelation statistics for homicides, thefts and robberies for 2018-2021. ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
      * [getLattes WebApp](https://roneyfraga.com/getLattesWeb/): Non-programmers alternative, use the getLattesWeb graphical interface. [How to use.](https://roneyfraga.com/getLattes/)![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-     * [Dashboard iGov-Jus](https://marcelojustus.github.io/painel.iGov-Jus/): The iGov-Jus Dashboard is an interactive data visualization platform that brings together indicators of productivity, transparency, ICT governance, and efficiency for Brazil’s 27 state-level Courts of Justice. ![made-with-JavaScript](https://img.shields.io/badge/Made%20with-JS-yellow)
+     * [Dashboard iGov-Jus](https://marcelojustus.github.io/painel.iGov-Jus/): The iGov-Jus Dashboard is an interactive data visualization platform that brings together indicators of productivity, transparency, ICT governance, and efficiency for Brazil’s 27 state-level Courts of Justice. ![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
      * [Digital Econometrics Textbook](https://marcelojustus.github.io/livro-econometria/): This material is intended for educational purposes, serving as a study guide for economics students. ![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Quarto](https://img.shields.io/badge/Quarto-39729E?style=flat-square&logo=quarto&logoColor=white)
     
    * ## Scientific Economic Research
