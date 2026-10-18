@@ -1,4 +1,4 @@
-# Data Science Portfolio by Luis Felipe de Souza Rodrigues
+# Portfolio by Luis Felipe de Souza Rodrigues
  
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Quarto](https://img.shields.io/badge/Quarto-39729E?style=for-the-badge&logo=quarto&logoColor=white)](https://quarto.org/)
